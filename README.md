@@ -31,6 +31,8 @@ Follow these steps to get the project up and running on your local machine:
 ```bash
 git clone [https://github.com/AT4455/Virtual-mouse-using-hand-gestere.git](https://github.com/AT4455/Virtual-mouse-using-hand-gestere.git)
 cd Virtual-mouse-using-hand-gestere
+
+
 ## 2.nstall Required Packages
 Ensure you have Python installed, then run the following command to install the required dependencies:
 pip install opencv-python mediapipe pyautogui
